@@ -8,6 +8,7 @@
             "includePath": [
                 "c:/Users/reyni/Documents/PlatformIO/Projects/The-War-Project/RFID-Puzzel/RFID-code/include",
                 "c:/Users/reyni/Documents/PlatformIO/Projects/The-War-Project/RFID-Puzzel/RFID-code/src",
+                "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                 "C:/Users/reyni/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/reyni/.platformio/packages/framework-arduino-avr/variants/standard",
                 "c:/Users/reyni/Documents/PlatformIO/Projects/The-War-Project/RFID-Puzzel/RFID-code/.pio/libdeps/uno/OneWire_ID1",
@@ -15,7 +16,6 @@
                 "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                 "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 "C:/Users/reyni/.platformio/packages/tool-unity",
                 ""
@@ -25,6 +25,7 @@
                 "path": [
                     "c:/Users/reyni/Documents/PlatformIO/Projects/The-War-Project/RFID-Puzzel/RFID-code/include",
                     "c:/Users/reyni/Documents/PlatformIO/Projects/The-War-Project/RFID-Puzzel/RFID-code/src",
+                    "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                     "C:/Users/reyni/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/reyni/.platformio/packages/framework-arduino-avr/variants/standard",
                     "c:/Users/reyni/Documents/PlatformIO/Projects/The-War-Project/RFID-Puzzel/RFID-code/.pio/libdeps/uno/OneWire_ID1",
@@ -32,14 +33,13 @@
                     "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
-                    "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
                     "C:/Users/reyni/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "C:/Users/reyni/.platformio/packages/tool-unity",
                     ""
                 ]
             },
             "defines": [
-                "PLATFORMIO=40300",
+                "PLATFORMIO=40301",
                 "ARDUINO_AVR_UNO",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
