@@ -6,6 +6,11 @@
 */.vscode
 .pio
 .vscode
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
 app/bin/
 app/pde.jar
 build/macosx/work/
